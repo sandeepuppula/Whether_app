@@ -30,5 +30,6 @@ click -> https://weather-app-html-css-javascript-three.vercel.app/
 Clone the repository:
 
 ```bash
-git clone https://github.com/mahendarvarma/Weather-app-html-css-javascript.git
+git clone https://github.com/sandeepuppula/Whether_app.git
+
 
